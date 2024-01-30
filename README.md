@@ -12,6 +12,7 @@ The N-Queens problem is a well-known combinatorial puzzle involving placing N qu
 - Develop a Python script, e.g., `sat_cnf.py`, to generate the Conjunctive Normal Form (CNF) representation of the N-Queens problem.
 - Leverage an established SAT solver, such as minisat, to determine the satisfiability of the formulated CNF.
 - Extract and interpret the solution provided by the SAT solver to determine the queen placements that satisfy the N-Queens problem constraints.
+
 **Conjunctive Normal Form:**
 Conjunctive normal form (CNF) is a way of representing boolean logic as a conjunction of 
 classes. Here each class is an expression of a form and consists of propositional value. 
