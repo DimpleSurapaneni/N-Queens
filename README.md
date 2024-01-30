@@ -39,4 +39,9 @@ Ex: CNF Representation:
 1. `$ python3 sat_cnf.py` → gives you the cnf file 
 2. `$ minisat queens_n.cnf queens_n.out` → runs the cnf file within in the sat solver and 
    saves the output to the output file
-3. `$ cat queens_n.out` → to view the output file
+3. `$ cat queens_n.out` → to view the output file.
+
+**Project Outcome:**
+A successful implementation of the project will demonstrate the effective use of a SAT solver to find solutions to the N-Queens problem, showcasing the conversion of logical constraints into a satisfiable Boolean formula.
+
+Feel free to customize the project goals, steps, and outcome based on your specific requirements and preferences.
