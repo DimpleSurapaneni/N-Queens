@@ -1,6 +1,17 @@
 **Logic for Computer Scientists**
 **Project: Satisfiability test of clauses and its application.**
 
+
+**Problem Statement:**
+
+The N-Queens problem is a well-known combinatorial puzzle involving placing N queens on an N × N chessboard in such a way that no two queens threaten each other. The challenge is to use a SAT (Boolean Satisfiability) solver to translate the N-Queens problem into a set of Boolean variables and constraints. The ultimate objective is to find a solution that satisfies these constraints.
+
+**Project Goals:**
+- Formulate the N-Queens problem as a Boolean satisfiability (SAT) instance.
+- Utilize a SAT solver to convert the logical constraints into Boolean variables.
+- Develop a Python script, e.g., `sat_cnf.py`, to generate the Conjunctive Normal Form (CNF) representation of the N-Queens problem.
+- Leverage an established SAT solver, such as minisat, to determine the satisfiability of the formulated CNF.
+- Extract and interpret the solution provided by the SAT solver to determine the queen placements that satisfy the N-Queens problem constraints.
 **Conjunctive Normal Form:**
 Conjunctive normal form (CNF) is a way of representing boolean logic as a conjunction of 
 classes. Here each class is an expression of a form and consists of propositional value. 
