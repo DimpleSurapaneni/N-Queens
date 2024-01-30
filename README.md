@@ -2,7 +2,7 @@
 N-Queens python program for minisat
 **Logic for Computer Scientists**
 **Project: Satisfiability test of clauses and its application.**
-1.Conjunctive Normal Form:
+/n1.Conjunctive Normal Form:
 Conjunctive normal form (CNF) is a way of representing boolean logic as a conjunction of 
 classes. Here each class is an expression of a form and consists of propositional value. 
 There are several properties of CNF. Every proposition in a CNF should be either true or 
