@@ -1,5 +1,15 @@
 # N-Queens
 N-Queens python program for minisat
+**Logic for Computer Scientists**
+**Project: Satisfiability test of clauses and its application.**
+Conjunctive Normal Form:
+Conjunctive normal form (CNF) is a way of representing boolean logic as a conjunction of 
+classes. Here each class is an expression of a form and consists of propositional value. 
+There are several properties of CNF. Every proposition in a CNF should be either true or 
+false. A conjunction of two propositions is a disjunction. A truth value’s compound 
+propositions is not dependent on the truth value of a conjunction.
+Ex: CNF Representation:
+(x1 ∨ y1 ∨ z1) ∧ (x2 ∨ y2 ∨ z2) ∧ (x3 ∨ y3 ∨ z3).
 Softwares and Libraries Used:
 • Initially installed the Linux OS environment in an Oracle VM VirtualBox Manager
 • In the Ubuntu terminal installed the minisat using the below commands
